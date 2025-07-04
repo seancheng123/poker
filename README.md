@@ -34,3 +34,7 @@ git clone https://github.com/your-username/poker.git
 cd poker
 npm install
 npm run dev
+```
+
+Then open your browser and go to:
+http://localhost:3000
